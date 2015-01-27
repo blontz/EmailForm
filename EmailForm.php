@@ -61,6 +61,7 @@ echo $region;
 echo "<br>";
 echo $agency;
 echo "<br>";
+echo "MailTo:developer1@domain.com;developer2@domain.com&cc=developer3@domain.com&subject=$agency&body=$region":
 ?>
 
 </body>
